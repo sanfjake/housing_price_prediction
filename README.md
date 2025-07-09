@@ -1,6 +1,5 @@
 # housing_price_prediction
 This is a project to predict housing prices.
-# 🏡 Housing Price Prediction with Linear Regression
 
 This Python project predicts housing prices based on house size (in square feet) using linear regression. It is designed as a hands-on introduction to data science techniques, including data cleaning, visualization, model training, and user interaction.
 
@@ -22,10 +21,10 @@ This Python project predicts housing prices based on house size (in square feet)
 
  Technologies Used
 
-- **Python 3.x**
-- **pandas** – for data handling
-- **matplotlib** – for plotting
-- **scikit-learn** – for linear regression modeling
+- Python 3.x
+- pandas – for data handling
+- matplotlib – for plotting
+- scikit-learn – for linear regression modeling
 
 
 
